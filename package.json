@@ -1,0 +1,34 @@
+{
+  "name": "multithread-litecoin-brute-force-by-corvuscodex",
+  "version": "1.4.1",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "cluster": "^0.7.7",
+    "coininfo": "^5.2.1",
+    "coinkey": "^3.0.0",
+    "crypto": "^1.0.1",
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CorvusCodex/Multithread-Litecoin-Brute-Force.git"
+  },
+  "keywords": [
+    "litecoin"
+  ],
+  "author": "CorvusCodex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CorvusCodex/Multithread-Litecoin-Brute-Force/issues"
+  },
+  "homepage": "https://github.com/CorvusCodex/Multithread-Litecoin-Brute-Force#readme"
+}
